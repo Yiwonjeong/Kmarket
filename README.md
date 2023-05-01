@@ -1,4 +1,22 @@
-# Kmarket
-# Kmarket
-# Kmarket
-# Kmarket
+# Kmarket 종합 온라인 쇼핑몰 
+
+### 개발기간
+2022.12.05 ~ 2022.12.28 (총 18일)
+
+### 배경 및 목적
+- 기존 전자 상거래 플랫폼(이하 온라인 쇼핑몰)이 가지고 있는 불편한 접근성과 복잡성을 개선
+- 판매자와 사용자에 친화적인 쇼핑몰 개발에 방점을 둠
+- 보다 편리한 온라인 쇼핑 환경에 기여
+
+### 주요 기능
+- 회원가입 / 로그인
+- 상품등록 / 상품 목록 / 상품 보기 / 장바구니 / 주문하기
+- 고객센터 공지사항 / 자주 묻는 질문 / 
+
+<img width="1456" alt="스크린샷 2023-05-01 오후 6 58 16" src="https://user-images.githubusercontent.com/110754810/235438224-a2271108-6c2e-4b42-a074-fb1b4ca71530.png">
+
+<img width="1459" alt="스크린샷 2023-05-01 오후 6 58 37" src="https://user-images.githubusercontent.com/110754810/235438221-286d735e-dcb3-49b1-85ac-bd0b692a62e7.png">
+
+<img width="1461" alt="스크린샷 2023-05-01 오후 6 58 51" src="https://user-images.githubusercontent.com/110754810/235438218-5b7643f4-a3f5-4e28-a6d5-c5c054e11dff.png">
+
+
